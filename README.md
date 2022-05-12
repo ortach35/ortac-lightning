@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulkadir Ortaç
-- 👀 I’m interested in java, c#
+- 👀 I’m interested in Python,java, c#
 - 🌱 I’m currently learning Numpy, Pandas for Data science
 - 📫 How to reach me kadirortac2001@hotmail.com 
 
